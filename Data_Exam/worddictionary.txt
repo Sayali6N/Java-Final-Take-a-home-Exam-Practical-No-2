@@ -1,0 +1,4 @@
+Apple-A Fruit, A Tech Firm
+Table-An Object, Contains Row And Columns When Used In Context Of Computers
+Orange-A Fruit
+name-
